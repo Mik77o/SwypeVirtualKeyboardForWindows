@@ -1,0 +1,233 @@
+C:\MDyskretny\Klawiatura\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\MDyskretny\Klawiatura\Klawiatura\bin\Debug\Klawiatura.exe
+C:\MDyskretny\Klawiatura\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\Window1.g.cs
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\App.g.cs
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\MainWindow.baml
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\Window1.baml
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\Klawiatura.exe
+C:\MDyskretny\Klawiatura\Klawiatura\obj\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\bin\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Klawiatura.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Window1.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Window1.baml
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Language.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProggram\Klawiatura\obj\Debug\Language.baml
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\bin\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Language.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Window1.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Language.baml
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Window1.baml
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboardProgram\Klawiatura\obj\Debug\Klawiatura.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\bin\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Klawiatura.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Language.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Window1.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Language.baml
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Window1.baml
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v1\Klawiatura\obj\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\bin\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Klawiatura.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Language.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Window1.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Language.baml
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Window1.baml
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboardProgram_v2\Klawiatura\obj\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\bin\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\Klawiatura.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\ChooseLanguage.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\bin\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\ChooseLanguage.baml
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\SwypeKeyboard — kopia\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\bin\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\Klawiatura.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\ChooseLanguage.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\ChooseLanguage.baml
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard poor\Klawiatura\obj\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\bin\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\Klawiatura.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\bin\Debug\WindowsInput.dll
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\bin\Debug\WindowsInput.xml
+C:\Users\Michal\Desktop\SwypeKeyboard — beta\Klawiatura\obj\Debug\Klawiatura.csproj.CopyComplete
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\bin\Debug\WindowsInput.dll
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\bin\Debug\WindowsInput.xml
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\Klawiatura.csproj.CopyComplete
+C:\Users\Michal\Desktop\SwypeKeyboard\Klawiatura\obj\Debug\Klawiatura.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\bin\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\bin\Debug\WindowsInput.dll
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\bin\Debug\WindowsInput.xml
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\Klawiatura.csproj.CopyComplete
+C:\Users\Michal\Desktop\SwypeKeyboard - wersja finish\Klawiatura\obj\Debug\Klawiatura.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\bin\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\bin\Debug\WindowsInput.dll
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\bin\Debug\WindowsInput.xml
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\Klawiatura.csproj.CopyComplete
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard beta\Klawiatura\obj\Debug\Klawiatura.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\bin\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\bin\Debug\WindowsInput.dll
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\bin\Debug\WindowsInput.xml
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\obj\Debug\Klawiatura.csproj.CopyComplete
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\obj\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard Release — kopia\Klawiatura\obj\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\bin\Debug\Klawiatura.exe.config
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\bin\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\bin\Debug\Klawiatura.pdb
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\bin\Debug\WindowsInput.dll
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\bin\Debug\WindowsInput.xml
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\Klawiatura.csprojAssemblyReference.cache
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\MainWindow.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\App.g.cs
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.cache
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\Klawiatura_MarkupCompile.lref
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\MainWindow.baml
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\Klawiatura.g.resources
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\Klawiatura.Properties.Resources.resources
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\Klawiatura.csproj.GenerateResource.cache
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\Klawiatura.csproj.CoreCompileInputs.cache
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\Klawiatura.csproj.CopyComplete
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\Klawiatura.exe
+C:\Users\Michal\Desktop\SwypeKeyboard Release\Klawiatura\obj\Debug\Klawiatura.pdb
